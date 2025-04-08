@@ -1,16 +1,17 @@
-## Hi there 👋
+## Personal Statement
+🎓 I recently graduated from Victoria University of Wellington with a Master of Engineering, focusing on Software and Computer Graphics.  
+🧪 Before that, I had over two years of experience as a QA Engineer (Test Developing Engineer) at Meituan, a leading tech company in China.  
+🧰 I have strong skills in Java/C++ development, automation testing, computer vision, and embedded software.  
+🚀 I am actively seeking junior or intermediate roles in QA or Software Development to apply my skills in building robust and scalable systems and continue growing as an engineer.
 
-<!--
-**currypeng0321/currypeng0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Publications
+📘 Robust 360° Visual Tracking with Dynamic Gnomonic Projection – ICVNZ ([link](https://ieeexplore.ieee.org/document/10794447))  
+📙 Bilateral Weighted Regression Ranking Model for Visual Tracking – IEEE Transactions on Multimedia ([link](https://ieeexplore.ieee.org/document/9417705))
 
-Here are some ideas to get you started:
+## My Hobbies
+🎵 I can play the accordion.  
+⚡ Music, Basketball, Football, Geography, Aviation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 Email: penghaocurry@gmail.com  
+🔗 LinkedIn: [HaoPengNZ](https://www.linkedin.com/in/HaoPengNZ/)
